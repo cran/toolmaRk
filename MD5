@@ -1,0 +1,9 @@
+2eb8d5031c451113a110aaae629b4049 *DESCRIPTION
+3508ecef61fae6863ffe2cf690e90116 *NAMESPACE
+d60809056633abae050c5fe8688983cb *R/chumbley-non-random.R
+3fd14838df6fadcd07ba338d1054b4c4 *R/data.R
+c46720d7266af3b5a91c32580a346506 *R/distance-threshold.R
+5fcf0bc2c0a0387e648efb90bcf15bc5 *data/ameslab.RData
+6ce4e7b25ec8aa82d632b8373a508ce4 *man/ameslab.Rd
+73908bc9de919ecae5853d66d75b6aa8 *man/chumbley_non_random.Rd
+f1be1632e00eead6551e72e38508d245 *man/fixed_width_no_modeling.Rd
